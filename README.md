@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/209009492" width="150" alt="zrsx logo">
 </p>
-  <i>Cybersecurity Researcher • Reverse Engineer • Performance Hacker</i>
+  <i>Cybersecurity Researcher • Reverse Engineer • Performance Hacker • Programming Expert</i>
 </p>
 
 ---
