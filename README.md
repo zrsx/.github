@@ -1,1 +1,69 @@
-# .github
+<h1 align="center">Welcome, I’m <a href="https://github.com/zrvx" target="_blank">@zrvx</a></h1>
+
+<p align="center">
+  <img src="your-logo.png" width="150" alt="zrvx logo"><br>
+  <i>Cybersecurity Researcher • Reverse Engineer • Performance Hacker</i>
+</p>
+
+---
+
+### 🔍 Interests
+
+- Binary analysis & reverse engineering  
+- Deep software modification  
+- Cybersecurity tooling  
+- Low-level system optimization  
+
+---
+
+### 🚀 Current Focus
+
+- Crafting next-gen obfuscation tools  
+- Elevating runtime performance & anti-analysis resistance  
+- Bypassing common RE techniques with precision
+
+---
+
+### 🤝 Collaboration Goals
+
+- Advanced obfuscators & protectors  
+- High-efficiency system software  
+- Open-source security frameworks  
+
+---
+
+### 🧠 Languages Mastered
+
+> *20+ languages from machine-close to high-level scripting*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=gnubash&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
+
+---
+
+### 📊 GitHub Stats & Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zrvx&show_icons=true&theme=react&hide_border=true&count_private=true" width="450">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrvx&layout=compact&theme=react&hide_border=true&langs_count=20&hide=html,css" width="380">
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> I turned obsession into mastery—**20+ languages, thousands of hours**, and I’m just getting started.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zrvx&label=Profile%20views&color=blue&style=flat" alt="zrvx" />
+</p>
