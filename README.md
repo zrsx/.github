@@ -49,15 +49,6 @@
 
 ---
 
-### 📊 GitHub Stats & Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zrsx&show_icons=true&theme=react&hide_border=true&count_private=true" width="450">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrsx&layout=compact&theme=react&hide_border=true&langs_count=20&hide=html,css" width="380">
-</p>
-
----
-
 ### ⚡ Fun Fact
 
 > I turned obsession into mastery—**20+ languages, thousands of hours**, and I’m just getting started.
