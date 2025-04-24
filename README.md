@@ -1,7 +1,7 @@
-<h1 align="center">Welcome, I’m <a href="https://github.com/zrvx" target="_blank">@zrvx</a></h1>
+<h1 align="center">Welcome, I’m <a href="https://github.com/zrsx" target="_blank">@zrsx</a></h1>
 
 <p align="center">
-  <img src="your-logo.png" width="150" alt="zrvx logo"><br>
+  <img src="your-logo.png" width="150" alt="zrsx logo"><br>
   <i>Cybersecurity Researcher • Reverse Engineer • Performance Hacker</i>
 </p>
 
@@ -52,8 +52,8 @@
 ### 📊 GitHub Stats & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zrvx&show_icons=true&theme=react&hide_border=true&count_private=true" width="450">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrvx&layout=compact&theme=react&hide_border=true&langs_count=20&hide=html,css" width="380">
+  <img src="https://github-readme-stats.vercel.app/api?username=zrsx&show_icons=true&theme=react&hide_border=true&count_private=true" width="450">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrsx&layout=compact&theme=react&hide_border=true&langs_count=20&hide=html,css" width="380">
 </p>
 
 ---
@@ -65,5 +65,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zrvx&label=Profile%20views&color=blue&style=flat" alt="zrvx" />
+  <img src="https://komarev.com/ghpvc/?username=zrsx&label=Profile%20views&color=blue&style=flat" alt="zrsx" />
 </p>
