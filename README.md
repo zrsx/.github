@@ -1,7 +1,8 @@
 <h1 align="center">Welcome, I’m <a href="https://github.com/zrsx" target="_blank">@zrsx</a></h1>
 
 <p align="center">
-  <img src="your-logo.png" width="150" alt="zrsx logo"><br>
+  <img src="https://avatars.githubusercontent.com/u/209009492" width="150" alt="zrsx logo">
+</p>
   <i>Cybersecurity Researcher • Reverse Engineer • Performance Hacker</i>
 </p>
 
